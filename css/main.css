@@ -187,6 +187,7 @@ header {
 	color: #000;
 	border-radius: 60px;
 }
+.item_btn a:hover,
 .offer_btn a:hover {
     background-color: #d3d4d5;
 }
@@ -480,7 +481,9 @@ footer {
 	display: block;
 	margin-bottom: 16px;
 }
-
+.footer_link a:hover {
+	color: #363636;
+}
 
 
 
